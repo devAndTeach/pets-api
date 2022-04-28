@@ -13,7 +13,8 @@ PETS = {
   '5': {'name': 'Rusty', 'breed': 'Poodle'},
   '6': {'name': 'Duchess', 'breed': 'Terrier'},
   '7': {'name': 'Bambi', 'breed': 'Overgrown Rat'},
-  '8': {'name': 'Lady Sybil', 'breed': 'Husky'}
+  '8': {'name': 'Lady Sybil', 'breed': 'Husky'},
+  '9': {'name': 'Mara', 'breed': 'Newfoundland'}
   
 }
 
